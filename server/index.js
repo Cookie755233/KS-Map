@@ -1,25 +1,29 @@
 require('dotenv').config();
+
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-const csv = require('csv-parse');
 const fs = require('fs');
 const path = require('path');
-const Location = require('./models/Location');
 const locationRoutes = require('./routes/locations');
 const authRoutes = require('./routes/auth');
 const Papa = require('papaparse');
 
+// const csv = require('csv-parse');
+// const Location = require('./models/Location');
+
 const app = express();
 
-// Enable CORS for specific origin in production
+// Update the CORS configuration
 app.use(cors({
-  origin: [
-    'http://localhost:3000',
-    'your-vercel-frontend-url'
-  ],
-  credentials: true
+  origin: ['http://localhost:5002', 'http://localhost:3000'], // Allow both ports
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Origin', 'Accept']
 }));
+
+// Add OPTIONS handling for preflight requests
+app.options('*', cors());
 
 // Parse JSON bodies
 app.use(express.json());
@@ -111,7 +115,6 @@ const importInitialData = async () => {
 };
 
 /* <--- Sample Data Upload Section, enable this if you want to upload sample data --->
-// Upload sample data if not exists
 const uploadSampleData = async () => {
   const sampleDataExists = await Location.exists({ type: 'sample' });
   if (!sampleDataExists) {

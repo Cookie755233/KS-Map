@@ -16,12 +16,12 @@ router.get('/:collection', async (req, res) => {
     console.log('Fetching locations from collection:', collection);
 
     const db = mongoose.connection.db;
-    console.log('Available collections:', await db.listCollections().toArray());
+    // console.log('Available collections:', await db.listCollections().toArray());
 
     const coll = db.collection(collection);
     const locations = await coll.find().toArray();
     console.log(`Found ${locations.length} locations in ${collection}`);
-    console.log('First location (if any):', locations[0]);
+    // console.log('First location (if any):', locations[0]);
 
     res.json(locations);
   } catch (error) {

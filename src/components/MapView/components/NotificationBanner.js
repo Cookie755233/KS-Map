@@ -6,7 +6,7 @@ const NotificationBanner = ({ notification, onDismiss }) => {
     if (notification) {
       const timer = setTimeout(() => {
         onDismiss();
-      }, 3000);
+      }, 5001);
       return () => clearTimeout(timer);
     }
   }, [notification, onDismiss]);
