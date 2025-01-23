@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1130612__centriods" id="1130612__centriods">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="建照號碼" type="string"></SimpleField>
+	<SimpleField name="地號" type="string"></SimpleField>
+	<SimpleField name="設計人" type="string"></SimpleField>
+	<SimpleField name="建設公司" type="string"></SimpleField>
+	<SimpleField name="土地使用分區" type="string"></SimpleField>
+	<SimpleField name="地上層數" type="int"></SimpleField>
+	<SimpleField name="地下層數" type="int"></SimpleField>
+	<SimpleField name="通用化浴廁(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="通用化交誼室(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="通用化昇降機(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="景觀陽臺(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="雨水貯集(立方公尺)" type="float"></SimpleField>
+	<SimpleField name="屋前綠能設施(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="屋後綠能設施(平方公尺)" type="float"></SimpleField>
+	<SimpleField name="太陽光電(kW)" type="string"></SimpleField>
+</Schema>
+<Folder><name>1130612__centriods</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01058號</SimpleData>
+		<SimpleData name="地號">前鎮區中安段20，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">吳建璋</SimpleData>
+		<SimpleData name="建設公司">洪秀馨</SimpleData>
+		<SimpleData name="土地使用分區">紅毛港遷村住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">23.13</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">23.13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.335008391379,22.588186499731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01168號</SimpleData>
+		<SimpleData name="地號">仁武區北屋段414-3，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林上立</SimpleData>
+		<SimpleData name="建設公司">蕎維建設股份有限公司負責人:吳彥儒(A1)</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">15.16</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">2.75</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">15.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.33488160053,22.6845649621308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00749-01號</SimpleData>
+		<SimpleData name="地號">鳥松區大德段一小段35，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">蕭裕智</SimpleData>
+		<SimpleData name="建設公司">A1吉郡建設有限公司負責人:吳文和</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">43.33</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">43.33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.38603246365,22.6546334370456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01354號</SimpleData>
+		<SimpleData name="地號">楠梓區援中段一小段239，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">沈鈺峰</SimpleData>
+		<SimpleData name="建設公司">四季地產開發股份有限公司負責人：陳韋廷</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">92.93</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">851.51</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">249.51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.279298759963,22.7275863665494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00898號</SimpleData>
+		<SimpleData name="地號">仁武區澄觀段280-1，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">王西村</SimpleData>
+		<SimpleData name="建設公司">A3鑫通建設有限公司負責人:吳思萱</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.33259794931,22.6767649818478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01405號</SimpleData>
+		<SimpleData name="地號">鳳山區牛潮埔段336-7，336-8，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">林建宏</SimpleData>
+		<SimpleData name="建設公司">A2連建福</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">29.48</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.366856216736,22.6426642051587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01419號</SimpleData>
+		<SimpleData name="地號">左營區菜公段六小段1074，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">羅仲廷</SimpleData>
+		<SimpleData name="建設公司">居采有限公司負責人:翁玉琳</SimpleData>
+		<SimpleData name="土地使用分區">第二種特定商業專用區</SimpleData>
+		<SimpleData name="地上層數">20</SimpleData>
+		<SimpleData name="地下層數">4</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">242.78</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1631.66</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">628.46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.322085985739,22.6846282811311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01080號</SimpleData>
+		<SimpleData name="地號">小港區坪鳳段260，260-1，260-2，260-3，260-4，260-5，260-6，260-7，260-8，260-9，260-10，260-11，260-12，260-13，260-14，260-15，260-16，260-17，260-18，共計19筆地號</SimpleData>
+		<SimpleData name="設計人">賴育成</SimpleData>
+		<SimpleData name="建設公司">崧？建設股份有限公司負責人：謝沁諭</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">147.56</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">73.27</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">147.56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.385883629624,22.553389270009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01026號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(G棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">119.31</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">23.84</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">119.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01254號</SimpleData>
+		<SimpleData name="地號">楠梓區右昌段五小段395，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李永祺</SimpleData>
+		<SimpleData name="建設公司">民崴建設有限公司負責人:蘇榮仁</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">11.28</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">11.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.286718975701,22.7087819099162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01542號</SimpleData>
+		<SimpleData name="地號">三民區覆鼎金段覆鼎金一小段651，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">羅仲廷</SimpleData>
+		<SimpleData name="建設公司">日大建設事業股份有限公司負責人:洪金夫</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">185.32</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">546</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">568.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.323747994901,22.6735539723612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01008號</SimpleData>
+		<SimpleData name="地號">橋頭區仕興段932，933，934，967，968，共計5筆地號</SimpleData>
+		<SimpleData name="設計人">林伯諭</SimpleData>
+		<SimpleData name="建設公司">京城建設股份有限公司負責人:蔡天贊</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">13</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">135.28</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">135.28</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.30865101532,22.7481444666188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01401號</SimpleData>
+		<SimpleData name="地號">左營區新庄段七小段534，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">邱士韋</SimpleData>
+		<SimpleData name="建設公司">顏志榮</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">16</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">118.64</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">16.88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.298881261787,22.6700103352835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01226號</SimpleData>
+		<SimpleData name="地號">左營區新光段338，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">吳坤良</SimpleData>
+		<SimpleData name="建設公司">麗築建設有限公司負責人:邱智勇</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">16.65</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">16.65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.301792648578,22.6789873871431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01415號</SimpleData>
+		<SimpleData name="地號">三民區河濱段168，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">許毓哲</SimpleData>
+		<SimpleData name="建設公司">豐邑營造股份有限公司負責人：李昆洲</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">11</SimpleData>
+		<SimpleData name="地下層數">2</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">58</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">209.57</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">66.04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.290178099204,22.6351736412539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01285號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段52，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李三慶</SimpleData>
+		<SimpleData name="建設公司">吉泰國際開發有限公司負責人：黃益槐(A2)</SimpleData>
+		<SimpleData name="土地使用分區">第二之三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.31</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.34457849578,22.592893939072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00961號</SimpleData>
+		<SimpleData name="地號">苓雅區苓雅寮段883，884，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">許乃元</SimpleData>
+		<SimpleData name="建設公司">以勒建設有限公司負責人:錢璽文(A1)</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">13.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.294763136781,22.6134348192826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01022號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(B棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">53.28</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">31.84</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">53.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00921號</SimpleData>
+		<SimpleData name="地號">鳥松區仁愛段1，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林伯諭</SimpleData>
+		<SimpleData name="建設公司">高永建設股份有限公司負責人:徐淑美(A1)</SimpleData>
+		<SimpleData name="土地使用分區">住宅區(住一)</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">28.3</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">28.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.396068351615,22.6495614645791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01536號</SimpleData>
+		<SimpleData name="地號">楠梓區楠都段一小段129，130，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">陳成裕</SimpleData>
+		<SimpleData name="建設公司">科成開發建設有限公司代表人：蔣？月</SimpleData>
+		<SimpleData name="土地使用分區">第三種商業區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">20.16</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">20.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.330429867594,22.7312147980135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01222號</SimpleData>
+		<SimpleData name="地號">仁武區赤南段75，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">歐晉宏</SimpleData>
+		<SimpleData name="建設公司">樂基建設股份有限公司代表人：錢濤</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">10</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">328.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.347260595591,22.6728511497987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00948號</SimpleData>
+		<SimpleData name="地號">鳳山區五甲段1021-17，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林瑞學</SimpleData>
+		<SimpleData name="建設公司">(A1)龍立開發建設有限公司負責人:王建進</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化昇降機(平方公尺)">50</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">50</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">28.24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.337678623065,22.596889124137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00876號</SimpleData>
+		<SimpleData name="地號">楠梓區右昌段三小段127，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">許家宏</SimpleData>
+		<SimpleData name="建設公司">彭德霖</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">12.73</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">12.73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.28401146254,22.7140771233897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01232號</SimpleData>
+		<SimpleData name="地號">楠梓區藍田中段62，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林上立</SimpleData>
+		<SimpleData name="建設公司">芳崗建設有限公司負責人:林達標</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">147.84</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1116.66</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">477.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.288567448292,22.7245570659068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01018號</SimpleData>
+		<SimpleData name="地號">左營區新庄段九小段1400-1，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">蘇益民</SimpleData>
+		<SimpleData name="建設公司">李金璋</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.78</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">19.78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.309718451734,22.6655230204698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01342號</SimpleData>
+		<SimpleData name="地號">鳳山區四甲段41，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">張文明</SimpleData>
+		<SimpleData name="建設公司">永信建設開發股份有限公司負責人:陳俊銘</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">14</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">137.49</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">468</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">519.36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.333494569079,22.5866618762773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01071號</SimpleData>
+		<SimpleData name="地號">新興區大統段二小段970，971，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">李永欣</SimpleData>
+		<SimpleData name="建設公司">何尹琳</SimpleData>
+		<SimpleData name="土地使用分區">第二種特定商業專用區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">22.39</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">22.39</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">8.83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.307747338918,22.6224848631834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01059號</SimpleData>
+		<SimpleData name="地號">鼓山區龍中段67，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">張文明</SimpleData>
+		<SimpleData name="建設公司">欣巴巴事業股份有限公司負責人:黃？輝</SimpleData>
+		<SimpleData name="土地使用分區">第四種商業區</SimpleData>
+		<SimpleData name="地上層數">35</SimpleData>
+		<SimpleData name="地下層數">7</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">268.26</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">3271.29</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">364.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.296848747545,22.6607848014579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01652號</SimpleData>
+		<SimpleData name="地號">左營區新庄段十二小段1175，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林子森</SimpleData>
+		<SimpleData name="建設公司">京城建設股份有限公司負責人:蔡天贊</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">12</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">170.39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.310400189338,22.6594343282382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01106號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段83，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">朱文明</SimpleData>
+		<SimpleData name="建設公司">晉有建設股份有限公司負責人:黃文雄</SimpleData>
+		<SimpleData name="土地使用分區">第二之三種住宅區</SimpleData>
+		<SimpleData name="地上層數">9</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">32</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">32</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">98.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.343576055399,22.5925068477981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01311號</SimpleData>
+		<SimpleData name="地號">左營區福山段529，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">沈鈺峰</SimpleData>
+		<SimpleData name="建設公司">全泉開發實業有限公司負責人:翁金聰</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">121.12</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">121.12</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">412.42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.309286678389,22.6830694264215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01665號</SimpleData>
+		<SimpleData name="地號">楠梓區藍田西段32-1，32-2，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">張文明</SimpleData>
+		<SimpleData name="建設公司">勤寬建設股份有限公司負責人:林佳琪</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">22</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">260.41</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1512</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">808.87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.27994829458,22.7302907274548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01063號</SimpleData>
+		<SimpleData name="地號">岡山區友情段336，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">黃秀文</SimpleData>
+		<SimpleData name="建設公司">璟田建築開發有限公司負責人：王月鈴</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">7</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">120.78</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">30.76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.31410594602,22.7788901621628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01281號</SimpleData>
+		<SimpleData name="地號">楠梓區後勁段一小段96，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">張文明</SimpleData>
+		<SimpleData name="建設公司">友駿建設股份有限公司負責人:張永義</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">112</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">808.48</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">305.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.317346464567,22.7207076778228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01023號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(D棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">53.08</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">31.84</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">53.08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00993號</SimpleData>
+		<SimpleData name="地號">鳳山區過埤段264，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">沈鈺峰</SimpleData>
+		<SimpleData name="建設公司">銳揚建設股份有限公司負責人:侯嘉璋</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">242.02</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">2374.15</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">853.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.365326685736,22.5915129809177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01616號</SimpleData>
+		<SimpleData name="地號">鳳山區埤頂段2150，2150-3，2150-4，2150-5，2151，2151-2，2151-3，2151-4，2151-5，2151-6，共計10筆地號</SimpleData>
+		<SimpleData name="設計人">林子森</SimpleData>
+		<SimpleData name="建設公司">春聖建設股份有限公司負責人:李宗聖</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">168</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">679.43</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">563.74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.377161722364,22.6261867290287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00962號</SimpleData>
+		<SimpleData name="地號">苓雅區苓雅寮段883，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">許乃元</SimpleData>
+		<SimpleData name="建設公司">以勒建設有限公司負責人:錢璽文(A2)</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">13.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.294746509297,22.6134296142953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01378號</SimpleData>
+		<SimpleData name="地號">楠梓區藍田中段24，25，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">賴育成</SimpleData>
+		<SimpleData name="建設公司">興連城建設有限公司負責人：周惠賓</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">14</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">76</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">732.29</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">240.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.287112893387,22.7297337265024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01147號</SimpleData>
+		<SimpleData name="地號">小港區鳳宮段221-1，222-1，223-1，223-2，小港區店鎮段174，174-6，197，198，199，200，201，201-5，201-6，202，202-1，202-2，202-3，202-4，202-5，203，203-1，205，共計22筆地號</SimpleData>
+		<SimpleData name="設計人">許毓哲</SimpleData>
+		<SimpleData name="建設公司">祥傑建設股份有限公司負責人:方吉雄</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區，第二種特定商業專用區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">129.15</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">129.15</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">406.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.352775334434,22.5620271563686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00949號</SimpleData>
+		<SimpleData name="地號">鳳山區五甲段1021-17，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林瑞學</SimpleData>
+		<SimpleData name="建設公司">(A2)龍立開發建設有限公司負責人:王建進</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">21.36</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">21.36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.337678623065,22.596889124137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01188號</SimpleData>
+		<SimpleData name="地號">三民區大裕段一小段300，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李學能</SimpleData>
+		<SimpleData name="建設公司">新勁營造有限公司負責人:王秀禎</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">10.18</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">10.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.328273556283,22.6550980165864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01374號</SimpleData>
+		<SimpleData name="地號">小港區坪頂段16-8，16-42，16-43，共計3筆地號</SimpleData>
+		<SimpleData name="設計人">高修一</SimpleData>
+		<SimpleData name="建設公司">睿永建設有限公司負責人:潘奕融</SimpleData>
+		<SimpleData name="土地使用分區">特定商業區1-1</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">61.8</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">61.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.39013451819,22.5597496289212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01315號</SimpleData>
+		<SimpleData name="地號">大寮區新厝南段356，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">陳國欽</SimpleData>
+		<SimpleData name="建設公司">潤澄建設有限公司負責人：王子彥</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">34.96</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">34.96</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">67.21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.409990454136,22.5602849381316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01019號</SimpleData>
+		<SimpleData name="地號">左營區新民段373，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李忠豪</SimpleData>
+		<SimpleData name="建設公司">林薇</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">29.53</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.313180991804,22.6744496877306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00865-01號</SimpleData>
+		<SimpleData name="地號">鳳山區牛潮埔段217-2，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">楊宗諭</SimpleData>
+		<SimpleData name="建設公司">金築建設有限公司負責人:洪漢平</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">7</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">45.86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.3673133487,22.6434088877966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01459號</SimpleData>
+		<SimpleData name="地號">仁武區澄清段106-3，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">沈鈺峰</SimpleData>
+		<SimpleData name="建設公司">A1鼎豪建設有限公司負責人：黃啟豪</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.35893434072,22.6727152207948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01685號</SimpleData>
+		<SimpleData name="地號">鹽埕區大智段155，160，161，162-1，162-2，162-3，共計6筆地號</SimpleData>
+		<SimpleData name="設計人">許堅倚</SimpleData>
+		<SimpleData name="建設公司">郡都建設股份有限公司負責人：唐承</SimpleData>
+		<SimpleData name="土地使用分區">第五種商業區</SimpleData>
+		<SimpleData name="地上層數">27</SimpleData>
+		<SimpleData name="地下層數">6</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1731.3</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">203.09</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.286496794503,22.6243775096333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01321號</SimpleData>
+		<SimpleData name="地號">鳥松區育仁段102，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">楊伯憲</SimpleData>
+		<SimpleData name="建設公司">(A1)旭大建設有限公司負責人:何怡忞</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">22.4</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">22.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.358432589581,22.6657045499394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00968號</SimpleData>
+		<SimpleData name="地號">鳥松區神農段120，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">鍾佳霖</SimpleData>
+		<SimpleData name="建設公司">李孟偉</SimpleData>
+		<SimpleData name="土地使用分區">住宅區(住二)</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">28.57</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">28.57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.391075918584,22.6503866412692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00896號</SimpleData>
+		<SimpleData name="地號">仁武區澄觀段280-8，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">王西村</SimpleData>
+		<SimpleData name="建設公司">A1鑫通建設有限公司負責人:吳思萱</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化昇降機(平方公尺)">33.15</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.332515046954,22.6766381694891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01179號</SimpleData>
+		<SimpleData name="地號">楠梓區援中段一小段286，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">尤炯仁</SimpleData>
+		<SimpleData name="建設公司">利浤建設股份有限公司負責人:陳美云</SimpleData>
+		<SimpleData name="土地使用分區">第三種商業區</SimpleData>
+		<SimpleData name="地上層數">13</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">48</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">391.32</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">26.99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.276753080616,22.7251166025608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01417號</SimpleData>
+		<SimpleData name="地號">新興區新興段三小段1755，1755-2，1756，1757，1758，1759，1760，1778，1779，1780，1781，1782，1783，1785，1786，1787，共計16筆地號</SimpleData>
+		<SimpleData name="設計人">謝慶旺</SimpleData>
+		<SimpleData name="建設公司">興富發建設股份有限公司,負責人:曹淵博</SimpleData>
+		<SimpleData name="土地使用分區">第五種商業區</SimpleData>
+		<SimpleData name="地上層數">36</SimpleData>
+		<SimpleData name="地下層數">6</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">334.96</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">2530.24</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">336.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.302073769611,22.6286644559739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00976號</SimpleData>
+		<SimpleData name="地號">仁武區後港東段79，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">楊瑞昌</SimpleData>
+		<SimpleData name="建設公司">(A1)春之華建設有限公司負責人:吳秋華</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.32</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.326893901029,22.6834812038153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01024號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(E棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">53.08</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">31.84</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">53.08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01091號</SimpleData>
+		<SimpleData name="地號">仁武區金鼎段599，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林育宏</SimpleData>
+		<SimpleData name="建設公司">頂亨建設有限公司負責人：蔡？興(B1)</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">16.65</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">16.65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.333840555317,22.6727720285775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01282號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段52，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李三慶</SimpleData>
+		<SimpleData name="建設公司">吉泰國際開發有限公司負責人：黃益槐(B1)</SimpleData>
+		<SimpleData name="土地使用分區">第二之三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.31</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.34457849578,22.592893939072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01432號</SimpleData>
+		<SimpleData name="地號">岡山區成功段313，524-4，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">邱士韋</SimpleData>
+		<SimpleData name="建設公司">天磊建設有限公司代表人：柯孫信</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">7</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">41.8</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">216</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">52.87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.298126967256,22.8059254531389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01650號</SimpleData>
+		<SimpleData name="地號">鳥松區長庚段374-1，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林上立</SimpleData>
+		<SimpleData name="建設公司">容誠開發企業有限公司負責人：郭騰鴻</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">7</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">48</SimpleData>
+		<SimpleData name="通用化交誼室(平方公尺)">48</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">2</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">84.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.36481481286,22.6468390347469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01613號</SimpleData>
+		<SimpleData name="地號">三民區灣愛段255-1，255-2，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">興璟建設有限公司負責人:李炳輝</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">12</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">85.08</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">262.06</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">284.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.319446710197,22.6583763563182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01303號</SimpleData>
+		<SimpleData name="地號">鳳山區鳳青段222，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">楊昭懋</SimpleData>
+		<SimpleData name="建設公司">戴玉娟</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="通用化昇降機(平方公尺)">50</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.355662118859,22.6423902930546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01413號</SimpleData>
+		<SimpleData name="地號">林園區中門段768，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">王寶緯</SimpleData>
+		<SimpleData name="建設公司">孫銘健</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">14.61</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">14.61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.36846916275,22.5035735347169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01330號</SimpleData>
+		<SimpleData name="地號">梓官區中崙段100，100-10，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">楊昭懋</SimpleData>
+		<SimpleData name="建設公司">成大建設股份有限公司負責人：鄭福源</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">21.82</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">21.82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.272647980511,22.760851702051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01325號</SimpleData>
+		<SimpleData name="地號">左營區福山段196，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">許乃元</SimpleData>
+		<SimpleData name="建設公司">崑庭建設股份有限公司負責人：陳天保</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化交誼室(平方公尺)">100.81</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1342.78</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">446.03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.312188816762,22.6895081481539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01183號</SimpleData>
+		<SimpleData name="地號">鼓山區龍華段八小段2257，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">許堅倚</SimpleData>
+		<SimpleData name="建設公司">郡都建設股份有限公司負責人:唐承</SimpleData>
+		<SimpleData name="土地使用分區">第四種商業區</SimpleData>
+		<SimpleData name="地上層數">20</SimpleData>
+		<SimpleData name="地下層數">5</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">128</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">756.18</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">173.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.298336243953,22.6640549570964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01626號</SimpleData>
+		<SimpleData name="地號">楠梓區翠屏段二小段1，1-1，1-2，1-3，1-4，1-5，1-6，1-7，1-60，1-61，共計10筆地號</SimpleData>
+		<SimpleData name="設計人">許堅倚</SimpleData>
+		<SimpleData name="建設公司">郡和建設有限公司負責人：唐承</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">13</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">91.95</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">698.36</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">372.27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.302941850318,22.7286368306212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00946號</SimpleData>
+		<SimpleData name="地號">前鎮區瑞南段263，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">朱文松</SimpleData>
+		<SimpleData name="建設公司">陳威豪</SimpleData>
+		<SimpleData name="土地使用分區">第五種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">3.1</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">3.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.314369044565,22.5943106355162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01016號</SimpleData>
+		<SimpleData name="地號">仁武區草潭段1360，1361，660，共計3筆地號</SimpleData>
+		<SimpleData name="設計人">許毓哲</SimpleData>
+		<SimpleData name="建設公司">橘系列建設股份有限公司負責人：吳斐琳</SimpleData>
+		<SimpleData name="土地使用分區">澄清湖特定區第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">2</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">97.77</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">97.77</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">324.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.334746348567,22.6920342024801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01083號</SimpleData>
+		<SimpleData name="地號">苓雅區福東段872-1，872，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">史曜齊</SimpleData>
+		<SimpleData name="建設公司">鄭秋蘭</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區，第二種特定商業專用區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">19.25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.331391473241,22.6215411266204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01122號</SimpleData>
+		<SimpleData name="地號">大社區保甲段891，892，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">吳坤良</SimpleData>
+		<SimpleData name="建設公司">許安宏</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">27.5</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">27.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.351022255517,22.746493136557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00915號</SimpleData>
+		<SimpleData name="地號">楠梓區芎蕉段152-5，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李忠豪</SimpleData>
+		<SimpleData name="建設公司">億居開發建設有限公司代表人:羅惠馨(A5)</SimpleData>
+		<SimpleData name="土地使用分區">住宅區(特)</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">27.93</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">27.93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.329327137864,22.7486623551963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01654號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段82，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">張文明</SimpleData>
+		<SimpleData name="建設公司">永信建設開發股份有限公司負責人:陳俊銘</SimpleData>
+		<SimpleData name="土地使用分區">第二之三種住宅區</SimpleData>
+		<SimpleData name="地上層數">18</SimpleData>
+		<SimpleData name="地下層數">2</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">96.5</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">656.49</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">401.19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.343098846001,22.5931036452939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01398號</SimpleData>
+		<SimpleData name="地號">左營區新福段十小段66，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">沈鈺峰</SimpleData>
+		<SimpleData name="建設公司">城揚建設股份有限公司負責人:許芬蘭</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">3</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">123.27</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">2</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">348.63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.315727230383,22.6720076127927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01381號</SimpleData>
+		<SimpleData name="地號">鳥松區大同段622，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">黃閔彥</SimpleData>
+		<SimpleData name="建設公司">三揚建設有限公司負責人：朱緒遠(A1)</SimpleData>
+		<SimpleData name="土地使用分區">第一種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">44.87</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">44.87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.381297776642,22.6642013790212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01367號</SimpleData>
+		<SimpleData name="地號">三民區灣昌段564，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">陳鵬宇</SimpleData>
+		<SimpleData name="建設公司">襄揚國際有限公司負責人:洪政祿</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">4</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">110.06</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">1065.4</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">330.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.325450170902,22.6547577398393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01404號</SimpleData>
+		<SimpleData name="地號">鳳山區牛潮埔段333，336，336-6，336-7，共計4筆地號</SimpleData>
+		<SimpleData name="設計人">林建宏</SimpleData>
+		<SimpleData name="建設公司">A1連春興</SimpleData>
+		<SimpleData name="土地使用分區">第三之一種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">29.48</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.366657605075,22.6427270604597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01100號</SimpleData>
+		<SimpleData name="地號">仁武區金鼎段617，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">林育宏</SimpleData>
+		<SimpleData name="建設公司">頂亨建設有限公司負責人：蔡？興(A1)</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">13.95</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">13.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.333651209228,22.6733122670163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01025號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(F棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">53.28</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">31.84</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">53.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01283號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段52，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李三慶</SimpleData>
+		<SimpleData name="建設公司">吉泰國際開發有限公司負責人：黃益槐(B2)</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.31</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.34457849578,22.592893939072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01400號</SimpleData>
+		<SimpleData name="地號">三民區建豐段550，550-1，共計2筆地號</SimpleData>
+		<SimpleData name="設計人">鍾佳霖</SimpleData>
+		<SimpleData name="建設公司">王瑩萍</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區，第三種商業區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">25.12</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">25.12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.329411412366,22.6437177703155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01221號</SimpleData>
+		<SimpleData name="地號">岡山區友情段609，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">史曜齊</SimpleData>
+		<SimpleData name="建設公司">藍上倫</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">14.94</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.315020365175,22.7762963163076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01284號</SimpleData>
+		<SimpleData name="地號">鳳山區保成段52，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李三慶</SimpleData>
+		<SimpleData name="建設公司">吉泰國際開發有限公司負責人：黃益槐(A1)</SimpleData>
+		<SimpleData name="土地使用分區">第二之三種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.31</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">19.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.34457849578,22.592893939072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01021號</SimpleData>
+		<SimpleData name="地號">小港區孔鳳段11，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李炳輝</SimpleData>
+		<SimpleData name="建設公司">(A棟)宏居開發有限公司負責人:歐輝煌</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">118.08</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">23.37</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">118.08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.372105604376,22.5785396314314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01298號</SimpleData>
+		<SimpleData name="地號">鼓山區龍華段一小段1064，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">伍偉廷</SimpleData>
+		<SimpleData name="建設公司">王俊宗</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">19.96</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">19.96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.292671954501,22.6678638172585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00135-03號</SimpleData>
+		<SimpleData name="地號">小港區明義段78，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">陳頡笙</SimpleData>
+		<SimpleData name="建設公司">施永林</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">3</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">20.91</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">20.91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.365296109931,22.5851134902437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01313號</SimpleData>
+		<SimpleData name="地號">仁武區北屋段1170，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">賴育成</SimpleData>
+		<SimpleData name="建設公司">雅多建設有限公司負責人：趙保彥</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">15</SimpleData>
+		<SimpleData name="地下層數">2</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">66.29</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">336.7</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">227.58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.330812880365,22.6827488969075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00973號</SimpleData>
+		<SimpleData name="地號">苓雅區五塊厝段2310，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">李彥頤</SimpleData>
+		<SimpleData name="建設公司">黃姿華</SimpleData>
+		<SimpleData name="土地使用分區">第二種特定商業專用區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">27.17</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">27.17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.326630955738,22.6315014089751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第00947號</SimpleData>
+		<SimpleData name="地號">苓雅區福河段1744，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">洪麗珠</SimpleData>
+		<SimpleData name="建設公司">喜騰建設有限公司負責人:李協霖</SimpleData>
+		<SimpleData name="土地使用分區">第三種住宅區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">29.7</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.332921884536,22.624061232987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01423號</SimpleData>
+		<SimpleData name="地號">苓雅區正言段318，319，320，321，322，324，327-3，共計7筆地號</SimpleData>
+		<SimpleData name="設計人">賴育成</SimpleData>
+		<SimpleData name="建設公司">立騰建設有限公司負責人：薛凰美</SimpleData>
+		<SimpleData name="土地使用分區">第四種住宅區</SimpleData>
+		<SimpleData name="地上層數">14</SimpleData>
+		<SimpleData name="地下層數">1</SimpleData>
+		<SimpleData name="通用化浴廁(平方公尺)">26</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">26</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">37.49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.332857376016,22.6323206480831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01048號</SimpleData>
+		<SimpleData name="地號">三民區大港段二小段1798-8，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">伍偉廷</SimpleData>
+		<SimpleData name="建設公司">敘陞建設有限公司負責人:李金進</SimpleData>
+		<SimpleData name="土地使用分區">第二種商業區</SimpleData>
+		<SimpleData name="地上層數">5</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">7.62</SimpleData>
+		<SimpleData name="屋後綠能設施(平方公尺)">7.62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.306936857897,22.6402500911179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01480號</SimpleData>
+		<SimpleData name="地號">燕巢區安北段950，共計1筆地號</SimpleData>
+		<SimpleData name="設計人">陳鵬文</SimpleData>
+		<SimpleData name="建設公司">吳育明</SimpleData>
+		<SimpleData name="土地使用分區">住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">29.32</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">29.32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.351083981194,22.7925911504822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#1130612__centriods">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="建照號碼">(113)高市工建築字第01339號</SimpleData>
+		<SimpleData name="地號">小港區合作段27，27-1，27-2，27-3，27-4，共計5筆地號</SimpleData>
+		<SimpleData name="設計人">黃閔彥</SimpleData>
+		<SimpleData name="建設公司">穩鼎建設有限公司代表人：郭振順</SimpleData>
+		<SimpleData name="土地使用分區">第二種住宅區</SimpleData>
+		<SimpleData name="地上層數">4</SimpleData>
+		<SimpleData name="地下層數">0</SimpleData>
+		<SimpleData name="景觀陽臺(平方公尺)">101.37</SimpleData>
+		<SimpleData name="雨水貯集(立方公尺)">22.28</SimpleData>
+		<SimpleData name="屋前綠能設施(平方公尺)">101.37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.365038183441,22.5834955985858</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
