@@ -16,7 +16,9 @@ const app = express();
 
 // Update the CORS configuration
 app.use(cors({
-  origin: ['http://localhost:5002', 'http://localhost:3000'], // Allow both ports
+  origin: process.env.NODE_ENV === 'production'
+    ? process.env.FRONTEND_URL
+    : ['http://localhost:5002', 'http://localhost:3000'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
   allowedHeaders: ['Content-Type', 'Authorization', 'Origin', 'Accept']
@@ -142,9 +144,11 @@ if (process.env.NODE_ENV === 'production') {
   });
 }
 
-const port = process.env.PORT || 3001;
+const PORT = process.env.PORT || 5002;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
 
-// Initialize MongoDB and start server
 const init = async () => {
   try {
     // Connect to MongoDB
@@ -152,8 +156,8 @@ const init = async () => {
     console.log('Connected to MongoDB');
 
     // Start server
-    app.listen(port, async () => {
-      console.log(`Server running on port ${port}`);
+    app.listen(PORT, async () => {
+      console.log(`Server running on port ${PORT}`);
       try {
         await importInitialData();
       } catch (error) {
