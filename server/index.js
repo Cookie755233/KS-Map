@@ -16,7 +16,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'your-vercel-frontend-url'
+    'https://your-frontend-domain.vercel.app'
   ],
   credentials: true
 }));
