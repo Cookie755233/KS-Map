@@ -1,5 +1,7 @@
 import { useState } from 'react';
 
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
+
 export const useImportState = ({ username, onImportSuccess }) => {
   const [showImportDialog, setShowImportDialog] = useState(false);
   const [showGuide, setShowGuide] = useState(false);
@@ -62,10 +64,10 @@ export const useImportState = ({ username, onImportSuccess }) => {
       });
 
       console.log('Current username:', username);
-      console.log('Request URL:', 'http://localhost:5001/api/locations/pending_data/batch');
+      console.log('Request URL:', `${API_URL}/locations/pending_data/batch`);
       console.log('Request payload:', { locations: newLocations });
 
-      const response = await fetch('http://localhost:5001/api/locations/pending_data/batch', {
+      const response = await fetch(`${API_URL}/locations/pending_data/batch`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
