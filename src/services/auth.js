@@ -1,14 +1,19 @@
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
+// Ensure API_URL ends with /api
+const API_URL = process.env.REACT_APP_API_URL ?
+  (process.env.REACT_APP_API_URL.endsWith('/api') ? process.env.REACT_APP_API_URL : `${process.env.REACT_APP_API_URL}/api`) :
+  'http://localhost:5001/api';
 
 export const login = async (username, password) => {
   try {
-    console.log('Attempting login to:', `${API_URL}/auth/login`);
-    const response = await fetch(`${API_URL}/auth/login`, {
+    const loginUrl = `${API_URL}/auth/login`;
+    console.log('Attempting login to:', loginUrl);
+    const response = await fetch(loginUrl, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json',
       },
+      credentials: 'include',  // Add this for cookies
       body: JSON.stringify({ username, password }),
     });
 
