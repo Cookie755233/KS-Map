@@ -1,6 +1,9 @@
 import { useState } from 'react';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
+// Ensure API_URL ends with /api
+const API_URL = process.env.REACT_APP_API_URL ?
+  (process.env.REACT_APP_API_URL.endsWith('/api') ? process.env.REACT_APP_API_URL : `${process.env.REACT_APP_API_URL}/api`) :
+  'http://localhost:5001/api';
 
 export const useImportState = ({ username, onImportSuccess }) => {
   const [showImportDialog, setShowImportDialog] = useState(false);
@@ -72,6 +75,7 @@ export const useImportState = ({ username, onImportSuccess }) => {
         headers: {
           'Content-Type': 'application/json',
         },
+        credentials: 'include',
         body: JSON.stringify({ locations: newLocations }),
       });
 
